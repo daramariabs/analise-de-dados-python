@@ -1,0 +1,32 @@
+Indexação de Strings 
+
+- [pos:] retorna tudo apartir da posição especifica
+- [:pos] retorna tudo até a posição especifica
+- [-pos] retorna tudo de trás pra frente
+- [:-pos] retorna tudo menos a ultima posição
+- [::2] retorna as posições pares ou de dois em dois
+
+Funções Built-in de Strings 
+
+- x.upper() converte tudo para maiusculo
+- x.lower() converte tudo para minusculo
+- x.split() dividi a string em espaços em brancos
+- x.captalize() converte a primeira letra para maiuscula
+- x.count('elemento') retorna a quantidade referente ao elemento especificado
+- x.isalnum() verifica se a string é numerica
+- x.islower() verifica se toda a string é composta por letras minusculas
+- x.isspace() verifica se toda a string é espaço
+- x.endswith(elemento) verifica se a string terminar com o elemento especificado
+
+Listas
+
+- print (x in lista) verifica se o elemento existe dentro da lista
+
+
+Dicionarios
+
+- dict.clear() limpa o dicionario 
+- dict.keys() retorna somente as chaves
+- dict.values() retorna somente os valores
+- dict.items() retorna cada par de item
+- dict.update(dict1) adiciona um dicionario ao existente
